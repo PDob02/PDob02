@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PDob02
-- 👀 I’m interested in ...Data Analytics, Visualization, & IT Operations Management
+- 👀 I’m interested in ... CI/CD, Data Analytics, Visualization, & IT Operations Management
 - 🌱 I’m currently learning ...Python, JavaScript, SQL, MongoDB
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... CI/CD Projects
 - 📫 How to reach me ...
 
 <!---
